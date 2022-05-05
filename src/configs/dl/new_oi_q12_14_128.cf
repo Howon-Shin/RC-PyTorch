@@ -6,9 +6,9 @@ discard_shitty_train = False
 discard_shitty_val = False
 fixed_first = None
 imgs_dir_train = {
-    'raw': '$RC_ROOT$/datasets/train_oi_r_sampled2_crop_tx',
-    'compressed': '$RC_ROOT$/datasets/train_oi_r_sampled2_crop_tx_bpg_qR12_14'}
-imgs_dir_val = '$RC_ROOT$/datasets/DIV2K_valid_HR_crop4_crop_tx;$RC_ROOT$/datasets/DIV2K_valid_HR_crop4_crop_tx_bpg_q12'
+    'raw': '$RC_ROOT$/txdatasets/train_oi_r_sampled2_crop_tx',
+    'compressed': '$RC_ROOT$/txdatasets/train_oi_r_sampled2_crop_tx_bpg_qR12_14'}
+imgs_dir_val = '$RC_ROOT$/txdatasets/DIV2K_valid_HR_crop4_crop_tx;$RC_ROOT$/txdatasets/DIV2K_valid_HR_crop4_crop_tx_bpg_q12'
 
 # if True, imgs_dir_train and imgs_dir_val are expected to be dicts with 'raw' and 'compressed' keys
 is_residual_dataset = True
