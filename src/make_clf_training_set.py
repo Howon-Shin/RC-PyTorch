@@ -33,9 +33,9 @@ def make_clf_training_set(training_set_dir):
     # Make sure we have them all
     ps = set(map(os.path.basename, V.ps))
     missing = set(clf_training_set_filenames) - ps
-    if missing:
-        print(f'ERROR: Not all files found, missing {missing}!')
-        sys.exit(1)
+    # if missing:
+    #     print(f'ERROR: Not all files found, missing {missing}!')
+    #     sys.exit(1)
 
     # Create the subset folder
     out_dir = training_set_dir.rstrip(os.path.sep) + '_subset_clf'
@@ -61,8 +61,11 @@ def make_clf_training_set(training_set_dir):
 
 def get_clf_training_set_filenames() -> list:
     this_file_p = os.path.dirname(os.path.abspath(__file__))
+    # clf_training_set_filenames_p = os.path.join(
+    #     this_file_p, 'data', 'clf_training_set_filenames.txt')
     clf_training_set_filenames_p = os.path.join(
-        this_file_p, 'data', 'clf_training_set_filenames.txt')
+        this_file_p, 'data', 'tname.txt')
+    print(clf_training_set_filenames_p)
     with open(clf_training_set_filenames_p) as f:
         return sorted(filter(None, f.read().split('\n')))
 

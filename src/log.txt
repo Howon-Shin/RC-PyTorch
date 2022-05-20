@@ -1,0 +1,48 @@
+Getting lock for /home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/cached_glob.pkl: .cached_glob.lock [reset: False]...
+>>> filter [min_size=512; discard_s=False]: 0.07239
+/home/shinhw/rcroot/RC-PyTorch/src/data/tname.txt
+['/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/02a7dbeb4655a6e_crop2.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/02a7dbeb4655a6e_crop3.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/02a7dbeb4655a6e_crop4.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/02a7dbeb4655a6e_crop5.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/02a7dbeb4655a6e_crop1.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/02a7dbeb4655a6e_crop8.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/02a7dbeb4655a6e_crop0.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/02a7dbeb4655a6e_crop7.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/10cc3815b95ae1b_crop3.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/10cc3815b95ae1b_crop2.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/24d2d48743d1316_crop0.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/24d2d48743d1316_crop8.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/24d2d48743d1316_crop6.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/2ae5a3d4e8ce477_crop1.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/2ae5a3d4e8ce477_crop2.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/2ae5a3d4e8ce477_crop3.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/2ae5a3d4e8ce477_crop0.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/2ae5a3d4e8ce477_crop4.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/2ae5a3d4e8ce477_crop6.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/2ae5a3d4e8ce477_crop5.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/2ae5a3d4e8ce477_crop8.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/2ae5a3d4e8ce477_crop7.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/2f520fdcf72047d_crop0.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/2f520fdcf72047d_crop1.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/2f520fdcf72047d_crop3.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/2f520fdcf72047d_crop2.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/2f520fdcf72047d_crop5.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/2f520fdcf72047d_crop8.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/2f520fdcf72047d_crop4.png', '/home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm/2f520fdcf72047d_crop7.png']
+{'2ae5a3d4e8ce477_crop4.png', '02a7dbeb4655a6e_crop8.png', '2ae5a3d4e8ce477_crop7.png', '2ae5a3d4e8ce477_crop5.png', '2f520fdcf72047d_crop8.png', '2ae5a3d4e8ce477_crop8.png', '02a7dbeb4655a6e_crop4.png', '2ae5a3d4e8ce477_crop0.png', '02a7dbeb4655a6e_crop7.png', '2f520fdcf72047d_crop3.png', '24d2d48743d1316_crop0.png', '02a7dbeb4655a6e_crop0.png', '24d2d48743d1316_crop6.png', '2f520fdcf72047d_crop4.png', '2ae5a3d4e8ce477_crop3.png', '2f520fdcf72047d_crop5.png', '2ae5a3d4e8ce477_crop2.png', '2ae5a3d4e8ce477_crop6.png', '02a7dbeb4655a6e_crop2.png', '2f520fdcf72047d_crop7.png', '2f520fdcf72047d_crop2.png', '02a7dbeb4655a6e_crop3.png', '10cc3815b95ae1b_crop3.png', '2f520fdcf72047d_crop0.png', '2f520fdcf72047d_crop1.png', '02a7dbeb4655a6e_crop5.png', '2ae5a3d4e8ce477_crop1.png', '10cc3815b95ae1b_crop2.png', '24d2d48743d1316_crop8.png', '02a7dbeb4655a6e_crop1.png'}
+Creating /home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm_subset_clf...
+Update: 3.3% copied
+Update: 6.7% copied
+Update: 10.0% copied
+Update: 13.3% copied
+Update: 16.7% copied
+Update: 20.0% copied
+Update: 23.3% copied
+Update: 26.7% copied
+Update: 30.0% copied
+Update: 33.3% copied
+Update: 36.7% copied
+Update: 40.0% copied
+Update: 43.3% copied
+Update: 46.7% copied
+Update: 50.0% copied
+Update: 53.3% copied
+Update: 56.7% copied
+Update: 60.0% copied
+Update: 63.3% copied
+Update: 66.7% copied
+Update: 70.0% copied
+Update: 73.3% copied
+Update: 76.7% copied
+Update: 80.0% copied
+Update: 83.3% copied
+Update: 86.7% copied
+Update: 90.0% copied
+Update: 93.3% copied
+Update: 96.7% copied
+Caching files...
+Getting lock for /home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm_subset_clf/cached_glob.pkl: .cached_glob.lock [reset: False]...
+Globbing /home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm_subset_clf...
+Found 30 files!
+--create_without_shitty given
+
+shitty_reasons 
+Processed all
+
+Globbed 30 images, storing in /home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm_subset_clf/cached_glob.pkl!
+
+Subfolder created at /home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm_subset_clf. Now run:
+bash prep_bpg_ds.sh A11_17 /home/shinhw/rcroot/datasets/train_oi_r_sampled_crop_sm_subset_clf
